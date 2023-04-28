@@ -1,73 +1,82 @@
 <img src="https://github.com/hongsonjs/hongsonjs/blob/main/svg/banner.svg" alt="Banner" />
-  <div align="left">
-  <a href="https://www.facebook.com/hongsonjs">
-    <img
-      src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-      alt="facebook"
-    />
-  </a>
-  <a href="#">
-    <img
-      src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-      alt="youtube"
-    />
-  </a>
-  <a href="#">
-    <img
-      src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/hongsonjs">
-    <img
-      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="linkedin"
-    />
-  </a>
-  <a href="mailto:hongson.js@gmail.com">
-    <img
-      src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="gmail"
-    />
-  </a>
-  <a href="#">
-    <img
-      src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-      alt="discord"
-    />
-  </a>
 
-  <a href="https://app.daily.dev/hongsonjs" target="_blank">
-    <img
-      width="300"
-      align="right"
-      src="https://github.com/hongsonjs/hongsonjs/blob/main/devcard.svg"
-    />
-  </a>
-</div>
+<h1 align="center">Greetings 🙋‍♂️, I'm Nguyen Hong Son</h1>
+<h3 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sacramento&size=40&pause=1000&color=FFA400&center=true&vCenter=true&width=700&height=60&lines=I'm+a+Front-end+Developer+from+Vietnam;New+UI+developer" alt="Typing SVG" /></a>
 
-### `$ whoami`
+<a href="https://app.daily.dev/hongsonjs"><img align="right" src="https://github.com/hongsonjs/hongsonjs/blob/main/devcard.svg" width="400" alt="HongSonJs's Dev Card"/></a>
 
-### Hi there, I'm Nguyen Hong Son ✔️
+> I'm a FE Developer from VN.
 
-I'm Front End Developer
-- 🇻🇳 : I'm from VietNam
-- 👀 : Here is <a href="#">my personal website</a>
-- ✍️ : There is <a href="#">my blog and articles</a>
-- ❤️ : I'm passionate about:
-  - 🖥️ Website Developer
+- 🌱 I’m currently learning **React**
+- 💬 Ask me about **Anything**, I am happy to help :smile:
+- 🧗 I try to: **Go beyond and push the bounds**
+- ⚡ I **Love** connecting with different people :raised_hands:
+- 📫 How to reach me: **hongson.js@gmail.com**
 
-> [![View count](https://visitcount.itsvg.in/api?id=hongsonjs&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in/api?id=lucthienphong1120)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## <img src="https://img.icons8.com/nolan/25/computer.png"/> Technologies
 
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
+<kbd>
+   <kbd>Front-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Back-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+    
+  </kbd>
+   <kbd>
+    <kbd>Library/FrameWorks</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <!--<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /> -->
+  </kbd>
+   <br><br>
+   
+   <kbd>
+    <kbd>Adobe Tools</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://img.icons8.com/color/42/000000/adobe-photoshop.png" />
+    <!--<img width="30px" src="https://img.icons8.com/color/42/000000/adobe-illustrator.png" /> -->
+    <!--<img width="30px" src="https://img.icons8.com/color/42/000000/adobe-premiere-pro--v1.png" /> -->
+  </kbd>
+  <kbd>
+    <kbd>Tools</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img width="30px" src="https://img.icons8.com/fluent/42/000000/sublime-text.png">
+  </kbd>
+  <br/>
+  <br/>
+  
+ ## <img src="https://img.icons8.com/nolan/25/computer.png"/> Connect with me
 
-<div align=center>
-  <a href="#" title="Hongsonjs">
-    <img align="left" width="434" src="https://github-readme-stats.vercel.app/api?username=hongsonjs&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="#" title="Hongsonjs">
-    <img width="315" height="175" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hongsonjs&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hongsonjs) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](#) [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/hongsonjs) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](#)  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](#) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](#)  [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/hongsonjs)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hongsonjs&label=Profile%20views&color=0e75b6&style=flat" alt="hongsonjs" /> </p>
+
+
+## <img src="https://img.icons8.com/nolan/26/github.png"/> Github Stats
+
+<div align="center">
+<p align="center">
+<a href="https://github.com/Shahzaib-D-Memon">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hongsonjs&&show_icons=true&theme=react"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hongsonjs&layout=compact&langs_count=8&theme=react"/>
+  <img src="https://streak-stats.demolab.com?user=hongsonjs&_border=true&theme=dark&hide_border=true&theme=react" style="width: 95%" />
+ </a>
+</p>
 </div>

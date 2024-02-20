@@ -2,7 +2,7 @@
 <h3 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sacramento&size=40&pause=1000&color=FFA400&center=true&vCenter=true&width=700&height=60&lines=I'm+a+Front-end+Developer+from+Vietnam;New+UI+developer" alt="Typing SVG" /></a>
 
-<a href="https://app.daily.dev/hongsonjs"><img align="right" src="./devcard.svg" width="400" alt="HongSonJs's Dev Card"/></a>
+<a href="https://app.daily.dev/hongsonjs"><img align="right" src="./devcard.png" width="400" alt="HongSonJs's Dev Card"/></a>
 
 > I'm a FE Developer from VN.
 

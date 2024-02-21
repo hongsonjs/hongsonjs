@@ -20,7 +20,7 @@
 <a href="https://github.com/hongsonjs">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hongsonjs&&show_icons=true&theme=react" style="width: 45%" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hongsonjs&layout=compact&langs_count=8&theme=react" style="width: 45%" />
-  <img src="https://streak-stats.demolab.com?user=hongsonjs&_border=true&theme=dark&hide_border=true&theme=react" style="width: 95%" />
+  
  </a>
 </p>
 </div>

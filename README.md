@@ -4,8 +4,6 @@
 <a href="https://app.daily.dev/hongsonjs"><img align="right" src="./devcard.png" width="400" alt="HongSonJs's Dev Card"/></a>
 
 - 🌱 I’m currently learning **JS**
-- 💬 Ask me about **Anything**, I am happy to help :smile:
-- 🧗 I try to: **Go beyond and push the bounds**
 - ⚡ I **Love** connecting with different people :raised_hands:
 - 📫 How to reach me: **hongson.js@gmail.com**
 
@@ -17,7 +15,6 @@
 <a href="https://github.com/hongsonjs">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hongsonjs&&show_icons=true&theme=react" style="width: 45%" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hongsonjs&layout=compact&langs_count=8&theme=react" style="width: 45%" />
-  
  </a>
 </p>
 </div>
